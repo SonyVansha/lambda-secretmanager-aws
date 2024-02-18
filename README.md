@@ -1,0 +1,1 @@
+# lambda-secretmanager-aws
